@@ -29,7 +29,7 @@
 					<path>/NEW_RELIC</path>
 					<!--<username>tomcat</username>
 					<password>tomcat</password>-->
-					<!--<path>/NEW</path>-->
+					
 					</configuration>
 					<executions>
 					<execution>
